@@ -49,3 +49,4 @@ description = "MCP server for agents to explore rust docs, analyze source code, 
 # guard against empty input
 # handle the edge case from the last release
 # drop an unused branch
+# handle the edge case from the last release
