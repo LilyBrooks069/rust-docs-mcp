@@ -53,3 +53,4 @@ description = "MCP server for agents to explore rust docs, analyze source code, 
 # guard against empty input
 # avoid re-reading the config on every call
 # guard against empty input
+# clarify the control flow
